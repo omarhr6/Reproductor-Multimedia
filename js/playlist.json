@@ -1,0 +1,40 @@
+{
+    "pista1": {
+        "track": "video1",
+        "titulo": "Criquet",
+        "autor": "Videvo",
+        "ruta": "videos/video1.mp4"
+    },
+    "pista2": {
+        "track": "audio1",
+        "titulo": "Gone",
+        "autor": "Michael Mceachern",
+        "ruta": "audios/audio1.mp3"        
+    },
+    "pista3": {
+        "track": "video2",
+        "titulo": "Niños jugando a criquet",
+        "autor": "Videvo",
+        "ruta": "videos/video2.mp4",
+        "ruta2": "videos/video2.webm",
+        "ruta3": "videos/video2.ogg"        
+    },
+    "pista4": {
+        "track": "audio2",
+        "titulo": "Fill the Space",
+        "autor": "Word Smith",
+        "ruta": "audios/audio2.mp3"
+    },
+    "pista5": {
+        "track": "video3",
+        "titulo": "Playerunknown's Battlegrounds",
+        "autor": "Omar Hernández",
+        "ruta": "videos/video3.mp4"
+    },
+    "pista6": {
+        "track": "audio3",
+        "titulo": "Empty Streets",
+        "autor": "Omonoko",
+        "ruta": "audios/audio3.mp3"
+    }
+}
